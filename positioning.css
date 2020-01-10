@@ -1,0 +1,35 @@
+.box {
+    height: 100px;
+    width: 100px;
+    
+}
+
+.red {
+    position: absolute;
+    background: red;
+    height: 50px;
+    width: 50px;
+   
+}
+
+.blue {
+    position: relative;
+    background: blue;
+}
+
+.green {
+    position: absolute;
+    background: green;
+    height: 100px;
+    width: 50px;
+}
+.purple {
+    position: absolute;
+    background: purple;
+    height: 50px;
+    width: 50px;
+}
+.border-yellow {
+    border: 5px solid goldenrod;
+    box-sizing: border-box;
+}
